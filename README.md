@@ -52,7 +52,11 @@ We empower broad, global participation in the metaverse by making it inclusive a
 
 We bake in privacy-preserving technologies throughout the stack to protect users' personal data and digital rights.
 
-#### 2.7 Transparency & Accountability
+#### 2.7 Fairness of Exchange
+
+We build technologies and frameworks that implement fair exchange of economic value in metaverse.The creators and developers of virtual items who work with the land, built environment, avatars or other virtual items on Upstreet must be able to trust that the primitives and protocols used for building the Upstreet, implement optimistic fair exchange and guarantee strong fairness of transactions to all correctly behaving parties during the protocol run. For the sake of clarity: both "strong fairness" and "optimistic fair exchange protocol" are established technical concepts used in the context of commercial transactions that are made over open networks.
+
+#### 2.8 Transparency & Accountability
 
 We maintain clear accountability through open and transparent processes, responsible data practices and ethical governance.
 
